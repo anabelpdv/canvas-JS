@@ -8,7 +8,7 @@ let mouse = {
   x: innerWidth/2,
   y: innerHeight/2,
 }
-//colors for balls
+
 let colors = [
   '#F2059F',
   '#05DBF2',
